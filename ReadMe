@@ -1,0 +1,13 @@
+Moira Dewey
+CMSC434
+November 8th, 2016
+
+This is the Android I Doodle App for CMSC 434
+
+References:
+
+For opacity implementation:
+https://code.tutsplus.com/tutorials/android-sdk-drawing-with-opacity--mobile-19682
+
+For general structure and save feature inspiration:
+https://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-interface-creation--mobile-19021
